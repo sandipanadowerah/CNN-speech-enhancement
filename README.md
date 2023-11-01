@@ -1,1 +1,1 @@
-# CNN-speech-enhancement
+# DNN-speech-enhancement
